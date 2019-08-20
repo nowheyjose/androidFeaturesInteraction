@@ -1,2 +1,2 @@
-# androidButtonInteractions
-A simple app to test how to connect buttons and make them interactive
+# androidFeaturesInteraction
+app to test how views connect and interact on android studio
